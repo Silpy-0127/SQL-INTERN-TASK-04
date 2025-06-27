@@ -1,5 +1,5 @@
 # SQL-INTERN-TASK-04
-# JOINs, Grouping & Aggregate Queries (MySQL)
+# JOINs, Grouping & Aggregate Queries 
 
 ## 📌 About the Task
 This task focuses on writing SQL queries that use **JOINs**, **GROUP BY**, **HAVING**, and **aggregate functions** in a **MySQL** database. The goal was to extract meaningful, combined data from related tables and perform advanced analysis through grouping and aggregation.
