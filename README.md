@@ -63,4 +63,3 @@ The `task4_solution.sql` file includes:
 
 ---
 
-📊 This task helped reinforce concepts of relational joins, grouped analysis, and SQL-based data reporting.
